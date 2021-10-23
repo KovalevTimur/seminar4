@@ -1,4 +1,4 @@
-def cicle(a):
+def cicle(i):
   sum=0
   i=1
   s=0
